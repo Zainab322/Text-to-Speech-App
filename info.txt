@@ -1,0 +1,16 @@
+Project: Text to Speech using Python (pyttsx3)
+
+Description:
+This project demonstrates how to convert text into speech using the pyttsx3 library.
+The project works completely offline without requiring any API keys or billing setup.
+It can generate speech in male/female voices, adjust speed and volume, and save the
+output as an audio file.
+
+Dependencies:
+- pyttsx3 (Text-to-Speech engine for Python)
+- Python 3.x
+
+How to Run:
+1. Install dependencies: pip install pyttsx3
+2. Run the script: python main.py
+3. Check the output in the "output_audio" folder.
